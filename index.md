@@ -1,6 +1,8 @@
 ## Welcome to my GitHub Page ! 
 
-I am Hasan Lanewala, a Mechanical Engineer from the University of Waterloo. Originally from Karachi Pakistan, I'm a big fan of the outdoors and like to make travel videos on my experiences. I am also a diver, runner and love to play squash !
+I am Hasan Lanewala, a Mechanical Engineer from the University of Waterloo. Originally from Karachi Pakistan, I'm a big fan of the outdoors (especially the ocean and the mountains). I am also a diver, runner and love to play squash. 
+
+Feel free to reach out to me at hasanlanewala@gmail.com !
 
 
 ### PERSONAL SUMMARY
