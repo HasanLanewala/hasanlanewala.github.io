@@ -2,12 +2,6 @@
 
 I am Hasan Lanewala, a Mechanical Engineer from the University of Waterloo in Canada.Originally from Karachi Pakistan, I love to travel, explore and learn ! 
 
-mkdir assets
-
-cp path/to/image.png ./assets/
-
-![Me !]({{ https://drive.google.com/file/d/1XmvHiVQhqADiKubdBPIDzfwgdhqK_hEG/view?usp=sharing }}/assets/image.png)
-
 
 ### PERSONAL SUMMARY
 - Passionate about bringing change, implementing innovative solutions and making the world a better place to live in
