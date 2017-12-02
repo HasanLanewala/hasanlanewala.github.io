@@ -1,9 +1,13 @@
 ## Welcome to my GitHub Page ! 
 
-I am Hasan Lanewala, a Mechanical Engineer form the University of Waterloo in Canada. Originally from Karachi Pakistan
-You can use the [editor on GitHub](https://github.com/HasanLanewala/hasanlanewala.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am Hasan Lanewala, a Mechanical Engineer from the University of Waterloo in Canada.Originally from Karachi Pakistan, I love to travel, explore and learn ! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+mkdir assets
+
+cp path/to/image.png ./assets/
+
+![Me !]({{ https://drive.google.com/file/d/1XmvHiVQhqADiKubdBPIDzfwgdhqK_hEG/view?usp=sharing }}/assets/image.png)
+
 
 ### PERSONAL SUMMARY
 - Passionate about bringing change, implementing innovative solutions and making the world a better place to live in
